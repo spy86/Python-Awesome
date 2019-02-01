@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/awesomepython/badge/?version=latest)](https://awesomepython.readthedocs.io/en/latest/?badge=latest)
+
 # Awesome Python 
 - [Awesome Python](#awesome-python)
     - [Admin Panels](#admin-panels)
